@@ -1,5 +1,8 @@
 # Design and Simulation of a 4-Bit Magnitude Comparator
 
+![4_Bit_Magnitude_Comparator](4_Bit_Magnitude_Comparator_hardware_pic.jpg)
+
+
 ## 📌 Project Overview
 
 This project presents the design and simulation of a **4-Bit Magnitude Comparator** as part of the **Digital Logic Design** course. A magnitude comparator is a combinational logic circuit used to compare two 4-bit binary numbers and determine whether one number is **greater than**, **less than**, or **equal to** the other.
